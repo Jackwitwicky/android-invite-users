@@ -3,6 +3,11 @@
 This is a simple Android Module that allows a developer to seamlessly intergrate a functioning invitation module
 into their already existing android application.
 
+
+On Launch             |  After Selection
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/8895134/36308932-af325ade-1333-11e8-8e1c-d3fb91cf3f2b.png)  |  ![](https://user-images.githubusercontent.com/8895134/36308937-b26d1d06-1333-11e8-986a-1e2d213e6c36.png)
+
 ## Getting Started
 
 This module is designed to be as seamless as possible and should work as a plug and play to your existing android application 
@@ -100,13 +105,9 @@ values (strings, dimens, arrays)
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Author
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+ **Jack Kiarie** - *Initial work* - [Other Works](https://incobeta.com)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -116,7 +117,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+Thanks to the following users for the circular image view and selection list
+
+* [Selection List] (https://github.com/DavidPizarro/AutoLabelUI)
+* [Circle Image View] (https://github.com/hdodenhof/CircleImageView)
 
