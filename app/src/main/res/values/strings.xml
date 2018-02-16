@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InviteUsers</string>
+
+    <string name="invite_menu_text">INVITE</string>
+</resources>

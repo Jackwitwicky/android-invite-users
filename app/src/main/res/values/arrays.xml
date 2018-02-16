@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="names">
+        <item>Crystal Gray</item>
+        <item>Emily Scott</item>
+        <item>Emma Jackson</item>
+        <item>Gregory Salazar</item>
+        <item>Jean Wheeler</item>
+        <item>Joe Alvarez</item>
+        <item>Nicholas Hicks</item>
+        <item>Rebecca Graham</item>
+        <item>Stephen Oliver</item>
+        <item>Vincent Weber</item>
+    </array>
+    <array name="phones">
+        <item>(346) 215 6270</item>
+        <item>(775) 785 5494</item>
+        <item>(571) 687 2060</item>
+        <item>(758) 717 1547</item>
+        <item>(581) 559 6787</item>
+        <item>(713) 938 6637</item>
+        <item>(516) 972 8063</item>
+        <item>(142) 427 6978</item>
+        <item>(967) 257 3780</item>
+        <item>(632) 623 7620</item>
+    </array>
+    <string-array name="photos">
+        <item>@drawable/crystal</item>
+        <item>@drawable/emily</item>
+        <item>@drawable/emma</item>
+        <item>@drawable/gregory</item>
+        <item>@drawable/jean</item>
+        <item>@drawable/joe</item>
+        <item>@drawable/nicholas</item>
+        <item>@drawable/rebecca</item>
+        <item>@drawable/stephen</item>
+        <item>@drawable/vincent</item>
+    </string-array>
+</resources>
